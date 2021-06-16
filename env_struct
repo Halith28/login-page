@@ -1,0 +1,9 @@
+NODE_ENV=local
+
+PORT=3000
+
+REACT_APP_API_ENDPOINT=http://localhost:8080/
+
+REACT_APP_GQL_ENDPOINT=http://localhost:8080/graphiql
+
+REACT_APP_SOCKET=ws://localhost:8080
